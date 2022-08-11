@@ -1,10 +1,10 @@
 <p align = "center"><img src="Hello-World-white.png"></p>
 <p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikShah563&layout=compact&hide=TSQL&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
 </p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark"></p>
 
 ### Hi there 👋
