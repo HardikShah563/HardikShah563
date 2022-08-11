@@ -1,4 +1,4 @@
-<p align="center"><img src="HelloWorld-green.png"></p>
+<p align="center"><img src="HelloWorld.png"></p>
 
 ### Hi there 👋
 
