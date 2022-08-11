@@ -26,7 +26,9 @@
 <!--   <img src="https://img.shields.io/badge/Firebase-c58545?style=for-the-badge&logo=firebase&logoColor=F1E715&labelColor=282828" /> &ensp; -->
 </div>
 
-
+<div align = "center">
+  <img src = "logo2.png" width = "30%">
+</div>
 <h2 align="center"><b>Have A Look At My Recent Blogs</b></h2>
 
 
