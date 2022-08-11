@@ -1,6 +1,4 @@
-<p align="center"><img src="HelloWorld.png"></p>
-
-<h1 align="center">Hi <img src="wave-hand.png" width="30px">, I am Hardik Shah </h1>
+<h1 align="center"><img src="Hello-World-white.png" width="30px">Hello World, I am Hardik Shah! </h1>
 
 ### Hi there 👋
 
