@@ -1,12 +1,14 @@
 <p align = "center"><img src="Hello-World-white.png"></p>
 <h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
+<h2 align="center"><b>Stats</b></h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width = "45%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark" width = "45%">
 </p>
 
-### Languages and Tools  
+<h2 align="center"><b>Languages And Tools</b></h2>
+<p align="center">
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,6 +33,7 @@
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+</p>
 
 ### Hi there 👋
 
