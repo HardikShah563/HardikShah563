@@ -1,4 +1,5 @@
 <p align = "center"><img src="Hello-World-white.png"></p>
+<p align = "center">Writer • Engineer • Blogger • Entrepreneur</p>
 <h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
 <h2 align="center"><b>Stats</b></h2>
