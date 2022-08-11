@@ -1,3 +1,5 @@
+<p align="center"><img src="HelloWorld.png"></p>
+
 ### Hi there 👋
 
 <!--
