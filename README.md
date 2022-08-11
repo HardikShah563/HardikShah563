@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width = "45%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark" width = "45%">
 </p>
-
+<br>
 <h2 align="center"><b>Languages And Tools</b></h2>
 
 <div align="center">
@@ -25,11 +25,12 @@
 <!--   <img src="https://img.shields.io/badge/Meteor-5B665B?style=for-the-badge&logo=meteor&logoColor=green" /> &ensp; -->
 <!--   <img src="https://img.shields.io/badge/Firebase-c58545?style=for-the-badge&logo=firebase&logoColor=F1E715&labelColor=282828" /> &ensp; -->
 </div>
-
+<br>
+<br>
 <div align = "center">
-  <img src = "logo2.png" width = "30%">
+  <img src = "Logo2.png" width = "20%">
+  <h2 align="center"><b>Have A Look At My Recent Blogs</b></h2>
 </div>
-<h2 align="center"><b>Have A Look At My Recent Blogs</b></h2>
 
 
 ### Hi there 👋
