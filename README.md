@@ -1,5 +1,5 @@
 <p align = "center"><img src="Hello-World-white.png"></p>
-<p align="center"><b>Visitor's Count</b></p>
+<h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikShah563&layout=compact&hide=TSQL&theme=chartreuse-dark">
