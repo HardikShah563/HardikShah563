@@ -2,9 +2,8 @@
 <h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikShah563&layout=compact&hide=TSQL&theme=chartreuse-dark" width = "1000">
-<img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=HardikShah563&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width = "45%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark" width = "45%">
 </p>
 
 
