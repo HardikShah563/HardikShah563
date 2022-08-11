@@ -1,4 +1,5 @@
-<h1 align="center"><img src="Hello-World-white.png" width="30px">Hello World, I am Hardik Shah! </h1>
+<img src="Hello-World-white.png">
+<h1 align="center">Hello World, I am Hardik Shah! </h1>
 
 ### Hi there 👋
 
