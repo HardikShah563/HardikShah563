@@ -33,8 +33,11 @@
 </div>
 
 <div align = "center">
-  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "Logo2.png" width = "20%"></a>
-  <h2 align="center"><b>Have A Look At My Recent Blogs</b></h2>
+  <h2 align="center"><b>Contact Details</b></h2>
+  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "portfolio.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "linkedin.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "insta.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
 </div>
 
 - 🔭 I’m currently working on ...
