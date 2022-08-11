@@ -1,5 +1,7 @@
 <p align="center"><img src="HelloWorld.png"></p>
 
+<h1 align="center">Hi <img src="wave-hand.png" width="30px">, I am Hardik Shah </h1>
+
 ### Hi there 👋
 
 <!--
