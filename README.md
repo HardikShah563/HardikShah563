@@ -37,6 +37,7 @@
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
 </div>
 
+# Hi there 👋
 - 🔭 I’m currently working as a web developer
 - 🌱 I’m currently learning js frameworks
 - 👯 I’m looking to collaborate on start-ups and web 3.0 projects
@@ -45,5 +46,3 @@
 - 📫 How to reach me: hardikts@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Stay Hungry, stay foolish:)
-
-### Hi there 👋
