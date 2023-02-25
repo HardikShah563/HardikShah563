@@ -61,7 +61,8 @@
 
 <div align = "center">
   <h2 align="center"><b>Contact Details</b></h2>
-  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "link.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hardikshah563.github.io/Hello-Hardik/"><img src = "link.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "blogspot.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "linkedin.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "insta.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
