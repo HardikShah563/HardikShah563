@@ -70,6 +70,11 @@
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
 </div>
 
+
+<!-- Holopin -->
+
+[![@hardikshah563's Holopin board](https://holopin.io/api/user/board?user=hardikshah563)](https://holopin.io/@hardikshah563)
+
 # Hi there 👋
 - 🔭 I’m currently working as a web developer
 - 🌱 I’m currently learning js frameworks
