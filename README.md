@@ -46,10 +46,9 @@
 <br>
 <br>
 
-
 <div align = "center">
 
-## 🖌 Creativity
+## ✨ Creativity
   ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white) 
@@ -58,9 +57,12 @@
   <!--   ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) -->
   <!--   ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-000.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)  -->
 </div>
+<br>
+<br>
 
 <div align = "center">
-  <h2 align="center"><b>Contact Details</b></h2>
+  
+## 📝 Contact Me
   <a target="_blank" href="https://hardikshah563.github.io/Hello-Hardik/"><img src = "link.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "blogspot.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "linkedin.png" width = "40px"></a> &ensp;
