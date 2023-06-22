@@ -72,11 +72,11 @@
 <div align = "center">
   
 ## 📝 Contact Me
-  <a target="_blank" href="http://hellohardik.xyz/"><img src = "link.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="http://hellohardik.xyz/"><img src = "logo.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "blogspot.png" width = "40px"></a> &ensp;
-  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "linkedin.png" width = "40px"></a> &ensp;
-  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "insta.png" width = "40px"></a> &ensp;
-  <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://www.linkedin.com/in/hardik-shah-62a7851b2/"><img src = "linkedin.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://www.instagram.com/hellohardik.xyz/"><img src = "insta.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://twitter.com/HardikS31529775"><img src = "twitter.png" width = "40px"></a> &ensp;
 </div>
 <br>
 
@@ -89,11 +89,10 @@
 <br>
 
 # Hi there 👋
-- 🔭 I’m currently working as a web developer
-- 🌱 I’m currently learning js frameworks
-- 👯 I’m looking to collaborate on start-ups and web 3.0 projects
-- 🤔 I’m looking for help with "Web 3.0 Developement"
-- 💬 Ask me about Front End Developement
-- 📫 How to reach me: hardikts@gmail.com
+- 🔭 Working as a web developer
+- 🌱 Learning js frameworks
+- 👯 Looking to collaborate on start-ups and web 3.0 projects
+- 💬 Ask me about Front End Development
+- 📫 How to reach me: http://hellohardik.xyz
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Stay Hungry, stay foolish:)
