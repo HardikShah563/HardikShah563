@@ -1,5 +1,6 @@
 <p align = "center"><img src="Hello-World-white.png"></p>
-<p align = "center">Writer • Engineer • Blogger • Entrepreneur</p>
+<!-- <p align = "center">Writer • Engineer • Blogger • Entrepreneur</p> -->
+<p align = "center">• Grow Through What You Go Through •</p>
 <h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
 <h2 align="center"><b>Stats</b></h2>
@@ -8,6 +9,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HardikShah563&theme=chartreuse-dark" width = "45%">
 </p>
 <br>
+
+<!-- Github Trophies -->
+<div align = "center">
+
+## 🏆 Trophies
+![.](https://github-profile-trophy.vercel.app/?username=HardikShah563&theme=darkhub&column=7&margin-w=10&)
+</div>
+<br>
+
 <h2 align="center"><b>Languages And Tools</b></h2>
 
 <!-- My Tech Stack -->
@@ -58,22 +68,25 @@
   <!--   ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-000.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)  -->
 </div>
 <br>
-<br>
 
 <div align = "center">
   
 ## 📝 Contact Me
-  <a target="_blank" href="https://hardikshah563.github.io/Hello-Hardik/"><img src = "link.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="http://hellohardik.xyz/"><img src = "link.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "blogspot.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "linkedin.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "insta.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "twitter.png" width = "40px"></a> &ensp;
 </div>
-
+<br>
 
 <!-- Holopin -->
+<div align = "center">
 
+## 🙌 Holopins
 [![@hardikshah563's Holopin board](https://holopin.io/api/user/board?user=hardikshah563)](https://holopin.io/@hardikshah563)
+</div>
+<br>
 
 # Hi there 👋
 - 🔭 I’m currently working as a web developer
