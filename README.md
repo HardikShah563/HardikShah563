@@ -31,10 +31,11 @@
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React.JS-000?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?style=for-the-badge&logo=nextdotjs)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=green)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![Vuejs](https://img.shields.io/badge/-Vue.JS-000?style=for-the-badge&logo=vuedotjs)
+![NodeJS](https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&logoColor=green)
+![Express.js](https://img.shields.io/badge/-Express.JS-000?style=for-the-badge&logo=express)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -45,14 +46,14 @@
 ![php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) 
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) -->
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 <!-- ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi) -->
-<!-- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel) -->
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) -->
 </div>
@@ -75,7 +76,7 @@
 <div align = "center">
   
 ## 📝 Contact Me
-  <a target="_blank" href="http://hellohardik.xyz/"><img src = "logo.png" width = "40px"></a> &ensp;
+  <a target="_blank" href="https://hellohardik.xyz/"><img src = "logo.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://hey-its-hardik.blogspot.com/"><img src = "blogspot.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://www.linkedin.com/in/hardik-shah-62a7851b2/"><img src = "linkedin.png" width = "40px"></a> &ensp;
   <a target="_blank" href="https://www.instagram.com/hellohardik.xyz/"><img src = "insta.png" width = "40px"></a> &ensp;
