@@ -54,6 +54,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino&logoColor=cyan)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-000?style=for-the-badge&logo=easyeda&logoColor=blue)
 <!-- ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi) -->
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) -->
