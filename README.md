@@ -1,4 +1,4 @@
-<p align = "center"><img src="Hello-World-white.png"></p>
+![hello-world](https://github.com/user-attachments/assets/b0dd1e01-9d4d-41ab-ade9-b3d6d6075fb0)<p align = "center"><img src="Hello-World.png"></p>
 <!-- <p align = "center">Writer • Engineer • Blogger • Entrepreneur</p> -->
 <p align = "center">• Grow Through What You Go Through •</p>
 <h2 align="center"><b>Visitor's Count</b></h2>
@@ -41,6 +41,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-000.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![FIrebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
@@ -49,9 +53,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![jQuery](https://img.shields.io/badge/jquery-000.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![php](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-000.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) 
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
