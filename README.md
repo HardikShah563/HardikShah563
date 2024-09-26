@@ -1,5 +1,4 @@
-![hello-world](https://github.com/user-attachments/assets/b0dd1e01-9d4d-41ab-ade9-b3d6d6075fb0)<p align = "center"><img src="Hello-World.png"></p>
-<!-- <p align = "center">Writer • Engineer • Blogger • Entrepreneur</p> -->
+![hello-world](https://github.com/user-attachments/assets/b0dd1e01-9d4d-41ab-ade9-b3d6d6075fb0)
 <p align = "center">• Grow Through What You Go Through •</p>
 <h2 align="center"><b>Visitor's Count</b></h2>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BHardikShah04%7D/count.svg" alt="visitor badge"/></p>
