@@ -100,10 +100,10 @@
 <br>
 
 # Hi there 👋
-- 🔭 Working as a web developer
-- 🌱 Learning js frameworks
-- 👯 Looking to collaborate on start-ups and web 3.0 projects
-- 💬 Ask me about Front End Development
-- 📫 How to reach me: http://hellohardik.xyz
+- 🔭 Building Valueye Technologies (https://www.valueye.in)
+- 🔗 If you'd like to checkout my portfolio website: https://www.hellohardik.xyz
+- 👯 Looking to collaborate with brands and companies and build valuable stuff online!
+- 💬 Ask me about Front End Development - it's my expertise
+- 📫 How to reach me: info@valueye.in
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Stay Hungry, stay foolish:)
+- ⚡ Fun fact: Stay Hungry, stay foolish :)
